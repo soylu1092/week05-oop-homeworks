@@ -1,0 +1,14 @@
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\bin\Debug\net8.0\soru10.exe
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\bin\Debug\net8.0\soru10.deps.json
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\bin\Debug\net8.0\soru10.runtimeconfig.json
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\bin\Debug\net8.0\soru10.dll
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\bin\Debug\net8.0\soru10.pdb
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\soru10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\soru10.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\soru10.AssemblyInfo.cs
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\soru10.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\soru10.dll
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\refint\soru10.dll
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\soru10.pdb
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\soru10.genruntimeconfig.cache
+C:\Users\MSI-NB\Documents\GitHub\week05-oop-homeworks\soru10\obj\Debug\net8.0\ref\soru10.dll
